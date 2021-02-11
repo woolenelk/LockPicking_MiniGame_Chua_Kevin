@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8259dd22acb6bba47a72e4a430d9cbe9
+guid: 287ac309ed43854448803ff41b8f742d
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable: []
@@ -7,38 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Handle
-    second: {fileID: 2100000, guid: de73326775902ba46a710596b9c0520e, type: 2}
+      name: KeyHole
+    second: {fileID: 2100000, guid: 08c0f8ee972f14641a5bee172489b40d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: c99b62f5ee014d04d86115bd04218941, type: 2}
+      name: Lock
+    second: {fileID: 2100000, guid: 2bcb56b9660e4ba49ad2e699675d14e0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Tip
-    second: {fileID: 2100000, guid: ef3bbb62e34ac114fb070663aa76d2b7, type: 2}
+      name: OuterLock
+    second: {fileID: 2100000, guid: 83dba99c040443443b3bd83e316101d7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Tip1
-    second: {fileID: 2100000, guid: 488ab2e18649e524d83dd70a0ea06573, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tip2
-    second: {fileID: 2100000, guid: 89e93a24c170be94f9c647a4d08090e1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tip3
-    second: {fileID: 2100000, guid: 6acf2c5b00cc8894cb70115f9873f6a4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tip4
-    second: {fileID: 2100000, guid: 1db3b493000fb6b4aab435cb612253d8, type: 2}
+      name: Plate
+    second: {fileID: 2100000, guid: b6aa1462b2ac9e44f966b130b5b273d6, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -108,7 +93,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
