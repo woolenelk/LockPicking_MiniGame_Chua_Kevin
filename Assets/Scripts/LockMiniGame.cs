@@ -99,7 +99,7 @@ public class LockMiniGame : MonoBehaviour
         {
             if (actualAngle <= target + BufferSkillRange && actualAngle >= target - BufferSkillRange)
             {
-                ClickSound.volume = 0.02f + (SkillLevel * 0.005f);
+                ClickSound.volume = 0.02f + (SkillLevel * 0.015f);
                 ClickSound.Play();
             }
         }
